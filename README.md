@@ -3,7 +3,7 @@
 
 ## Цель создания игры
 
-В далёком прошлом я с друзьями любил играть в игру под названием "Bounce". Возможно, это была моя самая первая игра, в которой я тратил своё свободное время. Недавно я захотел отдать дань памяти этой простой и в то же время интересной игре, написав простенькую копию с первым уровнем игры из оригинала. Ностальгия...
+В далёком прошлом я с друзьями любил играть в игру под названием "Bounce". Возможно, это была моя самая первая игра, в которой я тратил своё свободное время. Недавно я захотел отдать дань памяти этой простой и в то же время интересной игре, написав простенькую копию с первым уровнем игры из оригинала.
 
 
 ## Краткое описание игры
@@ -50,28 +50,3 @@
 ```cmake --build build --config Release```
 
 ```start ./build/bin/bounce.exe```
-
-
-## Дополнительная литература
-
-### Работа с CMake
-
-https://habr.com/ru/post/155467/
-
-https://docs.microsoft.com/ru-ru/cpp/build/cmake-projects-in-visual-studio?view=msvc-160
-
-https://habr.com/ru/post/342982/
-
-https://docs.microsoft.com/en-us/cpp/build/customize-cmake-settings?view=msvc-160
-
-### Работа с библиотекой SFML
-
-https://ps-group.github.io/ps1/lesson_sfml_1
-
-https://www.sfml-dev.org
-
-https://ravesli.com/graficheskaya-biblioteka-sfml-vstuplenie-i-ustanovka/
-
-https://habr.com/ru/post/279279/
-
-https://ps-group.github.io/ps1
